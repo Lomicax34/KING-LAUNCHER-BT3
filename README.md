@@ -1,5 +1,7 @@
 # KING EVOLUTION Launcher
 
+# DESCARGA EL RELEASE ACTUAL .RAR
+
 El launcher se publica como `KING EVOLUTION.exe` para Windows. En Linux, si ejecutas el launcher mediante una capa de compatibilidad, la comprobacion de actualizaciones abre el release de GitHub para que descargues y reemplaces manualmente el ejecutable. Para una ejecucion Linux nativa debe publicarse un ejecutable Linux en el release.
 
 El paquete `KING LOADER vX.Y.Z.rar` se descomprime en una carpeta `KING LOADER` que contiene `KING EVOLUTION.exe` y `Tutorial_Launcher.txt`.
